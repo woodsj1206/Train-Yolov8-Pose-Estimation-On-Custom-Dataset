@@ -1,0 +1,5 @@
+{
+  "project_name": "Train_Yolov8_Pose_Estimation_On_Custom_Dataset.ipynb",
+  "description": "A guide/template for training the YOLOv8 pose estimation model on custom datasets.",
+  "author": "woodsj1206 (https://github.com/woodsj1206)"
+}
